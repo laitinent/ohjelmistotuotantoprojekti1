@@ -62,7 +62,7 @@ public class NewClass {
     
     public int laske(int toinen)
     {
-        return luku+toinen;
+         return  luku+toinen;
     }
     
 }
